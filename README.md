@@ -5,9 +5,9 @@ I am a passionate Software Developer in training currently based in Germany. I a
 ---
 
 ### Education & Current Training
-- **Umschulung:** Fachinformatiker Fachrichtung Anwendungsentwicklung
-- **Institution:** BITLC - Business IT Learning Center (Germany)
-- **Focus:** Software engineering principles, clean code, agile methodologies, and full-stack development.
+- Umschulung: Fachinformatiker Fachrichtung Anwendungsentwicklung
+- Institution: BITLC - Business IT Learning Center (Germany)
+- Focus: Software engineering principles, clean code, agile methodologies, and full-stack development.
 
 ### Tech Stack
 
