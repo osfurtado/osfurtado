@@ -2,16 +2,14 @@
 
 I am a passionate **Software Developer in training** currently based in Germany. I am undergoing an intensive **Umschulung as a Fachinformatiker für Anwendungsentwicklung** at **BITLC (Business IT Learning Center)**. 
 
-I am currently looking for a **Praktikum (Internship)** position where I can apply my technical skills in real-world projects and contribute to an agile development team.
-
 ---
 
-### 🎓 Education & Current Training
+### Education & Current Training
 - **Umschulung:** Fachinformatiker Fachrichtung Anwendungsentwicklung
 - **Institution:** BITLC - Business IT Learning Center (Germany)
 - **Focus:** Software engineering principles, clean code, agile methodologies, and full-stack development.
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Frontend**
 - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -32,8 +30,6 @@ I am currently looking for a **Praktikum (Internship)** position where I can app
 
 ### 📫 How to reach me
 - **Email:** [osvaldofurtado.bitlc@gmail.com](mailto:osvaldofurtado.bitlc@gmail.com)
-- **Location:** Germany 🇩🇪
-- **Languages:** Portuguese (Native), English, German (Learning)
 
 ---
 
