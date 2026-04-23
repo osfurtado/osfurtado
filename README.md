@@ -1,16 +1,15 @@
-# Hi there, I'm Osvaldo Furtado 👋
+# Hi there, I'm Osvaldo 👋
 
 I am a passionate Software Developer in training currently based in Germany. I am undergoing an intensive **Umschulung as a Fachinformatiker für Anwendungsentwicklung** at BITLC (Business IT Learning Center). 
 
 ---
 
-### Education & Current Training
+### Current Training
 - Umschulung: Fachinformatiker Fachrichtung Anwendungsentwicklung
 - Institution: BITLC - Business IT Learning Center (Germany)
 - Focus: Software engineering principles, clean code, agile methodologies, and full-stack development.
 
 ### Tech Stack
-
 **Frontend**
 - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
