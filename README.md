@@ -28,12 +28,9 @@ I am a passionate Software Developer in training currently based in Germany. I a
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 - **Email:** [osvaldofurtado.bitlc@gmail.com](mailto:osvaldofurtado.bitlc@gmail.com)
 
 ---
-
-### 🚀 Goal
-My goal is to bridge the gap between academic learning and professional software production. I am eager to learn new frameworks, improve my architectural skills, and help build scalable solutions.
 
 *"Always learning, always coding."*
