@@ -1,6 +1,7 @@
 # Hi there, I'm Osvaldo
 
 I am a passionate Software Developer in training currently based in Germany. I am undergoing an intensive **Umschulung as a Fachinformatiker für Anwendungsentwicklung** at BITLC (Business IT Learning Center). 
+
 ---
 
 ### Tech Stack
