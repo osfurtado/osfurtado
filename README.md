@@ -1,7 +1,6 @@
 # Hi there, I'm Osvaldo
 
 I am a passionate Software Developer in training currently based in Germany. I am undergoing an intensive **Umschulung as a Fachinformatiker für Anwendungsentwicklung** at BITLC (Business IT Learning Center). 
-
 ---
 
 ### Tech Stack
@@ -25,12 +24,3 @@ I am a passionate Software Developer in training currently based in Germany. I a
   <img src="https://img.shields.io/badge/MSSQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-### How to reach me
-- **Email:** [osvaldofurtado.bitlc@gmail.com](mailto:osvaldofurtado.bitlc@gmail.com)
-
----
-
-*"Always learning, always coding."*
